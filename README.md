@@ -47,7 +47,7 @@ Exploratory Data Analysis (EDA)
 ![Alt text](<Screenshot 2024-02-02 111506.png>)
 
     -Determine the runtime and compare it to the cached version.
-
+By comparing the runtimes of the cached and uncached versions, we can determine that caching provides a performance improvement. The cached version is faster, it suggests that caching is effective in reducing the computational overhead.
 
 
 
